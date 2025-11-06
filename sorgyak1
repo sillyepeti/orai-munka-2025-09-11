@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Sör, információk,érdekességek">
+    <meta name="description" content="Az oldal érdekességek ír le a sörröl.">
+    <meta name="author" content="Somogyi-Tóth Dávid">
+    <title>Sör</title>
+</head>
+<body>
+    <header>
+        <img src="design/beer-new_401732638.jpg" alt="Sör" title="Söröskorsó" height="200">
+    </header>
+    <nav>
+        <a href="https://hu.wikipedia.org/wiki/S%C3%B6rfajt%C3%A1k">Sörök fajtái</a>
+        <a href="tablazat.html">Táblázat</a>
+        <a href="mailto: sillye.peter.imre@diak.szamalk-szalezi.hu">Hírlevél</a>
+    </nav>
+    <main>
+        <h3>10 érdekesség a sörről</h3>
+    <table>
+        <tr>
+            <td>
+                <ol>
+                    <li>
+                        2013-ig Oroszországban a sört nem sorolták az alkoholtartalmú italok közé
+Nigériában több Guinness-sör fogy, mint Írországban.
+<li>Japánban a sörös dobozok tetejét Braille-írásmóddal is „feliratozták”, hogy alkohol.</li>
+<li>Niels Bohr Nobel-díjas dán fizikus 1922-ben miután elnyerte a fizikai Nobel-díjat, még egy ajándékot kapott: Carlsberg-sőrfőzdéből a sört a házáig közvetlenül vezetéken kapta. Így egész életében ingyen ihatta a Carlsberget.
+</li>Afrikában erjesztett banánból készült sört isznak.
+A világ legerősebb söre 67,5% alkohol tartalmú.
+Ausztriában van egy sörfőzde, ahol szó szerint fürödhet a sörben.
+Az első dobozos sört 1935-ben adták el.
+                    </li>
+                </ol>
+            </td>
+        </tr>
+    </table>
+    </main>
+</body>
+</html>
